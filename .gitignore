@@ -1,18 +1,13 @@
-# Exclude IDE and environment files
 .idea/
 .venv/
 .DS_Store
-
-# Python cache files
 __pycache__/
 *.pyc
 *.pyo
 
-# Exclude resized datasets
-train_resized/
-test_resized/
+**/train_resized/
+**/test_resized/
 
-# Exclude all .npy files globally and specifically in datasets
 *.npy
 FER2013/*.npy
 KDEF/*.npy
