@@ -13,3 +13,16 @@ FER2013/*.npy
 KDEF/*.npy
 Mixed/*.npy
 Natural_Human_Face_Images/*.npy
+
+# Ignore all .npy files
+*.npy
+
+# Ignore specific directories
+FER2013/train_resized/
+FER2013/test_resized/
+KDEF/train_resized/
+KDEF/test_resized/
+Mixed/train_resized/
+Mixed/test_resized/
+Natural_Human_Face_Images/train_resized/
+Natural_Human_Face_Images/test_resized/
