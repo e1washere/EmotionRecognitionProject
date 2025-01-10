@@ -1,0 +1,12 @@
+.idea/
+
+.venv/
+
+.DS_Store
+
+__pycache__/
+*.pyc
+*.pyo
+
+**/train_resized/
+**/test_resized/
