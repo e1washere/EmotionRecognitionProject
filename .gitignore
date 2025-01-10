@@ -10,3 +10,7 @@ __pycache__/
 
 **/train_resized/
 **/test_resized/
+
+*.npy
+train_resized/
+test_resized/qu
