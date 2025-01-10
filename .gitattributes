@@ -1,1 +1,5 @@
 *.npy filter=lfs diff=lfs merge=lfs -text
+FER2013/*.npy filter=lfs diff=lfs merge=lfs -text
+KDEF/*.npy filter=lfs diff=lfs merge=lfs -text
+Mixed/*.npy filter=lfs diff=lfs merge=lfs -text
+Natural_Human_Face_Images/*.npy filter=lfs diff=lfs merge=lfs -text
